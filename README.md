@@ -15,4 +15,4 @@ use **clear** button to clear the whole expression or result
 use **<-** to clear the last single input number, operator or result
 
 ### Runnig the App
-    python simplecalcilator.py
+    python simplecalculator.py
