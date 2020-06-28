@@ -2,6 +2,11 @@ Simple Calculator
 
 this is GUI based simple calculator using Python Tkinter module, it can perform basic arithmatic operations addition, subtraction, multiplication and division.
 
+update: New Version
+
+![simple-calculator3](./screenshots/s3_new.png)
+
+
 Input Expression
 
 ![simple-calculator1](./screenshots/sc1.png)
