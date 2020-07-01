@@ -6,15 +6,6 @@ update: New Version
 
 ![simple-calculator3](./screenshots/s3_new.png)
 
-
-Input Expression
-
-![simple-calculator1](./screenshots/sc1.png)
-
-Result
-
-![simple-calculator1](./screenshots/sc2.png)
-
 use **clear** button to clear the whole expression or result
 
 use **<-** to clear the last single input number, operator or result
